@@ -2,10 +2,6 @@
 
 **A Unified, Multi-Site DCE-MRI Dataset for Pathological Complete Response (pCR) Prediction**
 
-Author: Sahithi Akula
-Department of Information Technology, Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering & Technology
-
-[Zenodo Data](https://zenodo.org/records/15627232) · [Zenodo Model Weights](https://zenodo.org/records/15627233) · [GitHub Repository](https://github.com/naomifridman/BreastDCEDL)
 
 ---
 
