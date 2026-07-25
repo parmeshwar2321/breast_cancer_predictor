@@ -264,7 +264,7 @@ The notebooks provide rich visualization of the 4D DCE data. For each patient, `
 9. Clark, K. et al. (2013). *The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository.* Journal of Digital Imaging, 26(6), 1045–1057.
 10. Esserman, L.J. et al. (2012). *Pathologic Complete Response Predicts Recurrence-Free Survival More Effectively by Cancer Subset: Results from the I-SPY 1 TRIAL — CALGB 150007/150012, ACRIN 6657.* Journal of Clinical Oncology, 30(26), 3242.
 11. Wolf, T. et al. (2020). *Transformers: State-of-the-Art Natural Language Processing.* EMNLP 2020. (HuggingFace Transformers library).
-12. BreastDCEDL GitHub Repository: [https://github.com/naomifridman/BreastDCEDL](https://github.com/naomifridman/BreastDCEDL)
+12. BreastDCEDL - Naomi Fridman
 13. BreastDCEDL Zenodo Data: [https://zenodo.org/records/15627232](https://zenodo.org/records/15627232)
 14. BreastDCEDL Zenodo Model Weights: [https://zenodo.org/records/15627233](https://zenodo.org/records/15627233)
 
