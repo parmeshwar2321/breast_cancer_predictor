@@ -252,6 +252,7 @@ The notebooks provide rich visualization of the 4D DCE data. For each patient, `
 - Extension to longitudinal response monitoring across all available time points.
 
 ## References
+1.
 
 1. Dosovitskiy, A. et al. (2020). *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.* arXiv:2010.11929.
 2. He, K. et al. (2021). *Masked Autoencoders Are Scalable Vision Learners.* arXiv:2111.06377.
